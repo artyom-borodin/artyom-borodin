@@ -12,9 +12,8 @@ Currently a student at the Academy of the Ministry of Internal Affairs of the Re
 
 ## Technologies
 
-* **Frontend & Backend:** JavaScript & TypeScript (Node.js), Vue, Express, Turso, SQL, GCP.
-* **AI:** Gemini API, Cohere API, Qdrant, Gemini Enterprise Agent Platform, OpenRouter.
-* **Also worked with:** Python, Flask, Pinecone, Java, Android SDK, Firebase
+* **Frontend & Backend:** JavaScript & TypeScript (Node.js), Vue, Express, Turso, SQL, Google Cloud Platform, Qdrant, Gemini Enterprise Agent Platform, OpenRouter.
+* **Also worked with:** Java, Android SDK, Firebase
 
 ---
 
@@ -59,32 +58,32 @@ Frontend for an attendance and grade tracking service for the Academy of the Min
 
 ## Achievements
 
-* 🎤 **Speaker — Project Presentation**  
+* **Speaker — Project Presentation**  
   Presented the "Borodinbaa" (What If) at the Great Stone China-Belarus Industrial Park.
   
-* 🥇 **1st Place — "The Hackathon: AI Era"**  
+* **1st Place — "The Hackathon: AI Era"**  
   Best AI-based solution, Minsk.
   
-* 🛡️ **1st Place — Personal Data Protection Competition**  
+* **1st Place — Personal Data Protection Competition**  
   Best research paper, National Center for Personal Data Protection.
   
-* 🥈 **2nd Place — IT-Challenge**  
+* **2nd Place — IT-Challenge**  
   Republican Olympiad in Information Technology, Polotsk.
   
-* ⚖️ **Winner of the "Lawmaking" Category**  
+* **Winner of the "Lawmaking" Category**  
   Belarusian Student Law Olympiad, Belarusian State University.
   
-* 💻 **Participant — IT-Challenge 2026**  
+* **Participant — IT-Challenge 2026**  
   Republican Olympiad in Information Technology among higher education students.
   
-* 💡 **Ministerial Stage Finalist — "100 Ideas for Belarus"**  
+* **Ministerial Stage Finalist — "100 Ideas for Belarus"**  
   Presentation of the "Borodinbaa" (What If) at the national level, Minsk.
   
-* 🏨 **Participant — InDev Solutions Hackathon (BSU & HTP)**  
+* **Participant — InDev Solutions Hackathon (BSU & HTP)**  
   Case: "Smart Hotel Access System".
   
-* 👮 **Participant — X International Olympiad in Informatics among Cadets**  
+* **Participant — X International Olympiad in Informatics among Cadets**  
   National stage, BSUIR.
   
-* 🇷🇺 **Finalist of the Russian MIA Hackathon**  
+* **Finalist of the Russian MIA Hackathon**  
   Big Data & AI in Law Enforcement track, Moscow.
