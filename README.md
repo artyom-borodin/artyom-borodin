@@ -12,7 +12,7 @@ Currently a student at the Academy of the Ministry of Internal Affairs of the Re
 
 ## Technologies
 
-* **Frontend & Backend:** JavaScript & TypeScript (Node.js), Vue, Express, Turso, SQL, Google Cloud Platform, Qdrant, Gemini Enterprise Agent Platform, OpenRouter.
+* **Frontend & Backend:** JavaScript & TypeScript (Node.js), Vue, Express, Turso, SQL, Google Cloud Platform, Qdrant, Gemini Enterprise Agent Platform, OpenRouter, Docker.
 * **Also worked with:** Java, Android SDK, Firebase
 
 ---
@@ -33,12 +33,19 @@ A RAG-based AI legal assistant. Included in the state catalog of innovative deve
 
 Web service for the schedule of the Academy of the Ministry of Internal Affairs of the Republic of Belarus. Used daily by hundreds of users.
 
-### [Biblio-formatter](https://github.com/artyom-borodin/biblio-formatter)
+### Potato.by
+* **Status:** In Development
+
+<img src="project3.jpg" width="600" alt="Potato.by Screen" />
+
+Web platform with a talking AI mascot powered by real-time Rive animation and lip-sync.
+
+### [Optimal LLM](https://github.com/artyom-borodin/optimal-llm)
 * **Status:** MVP
 
-<img src="project3.jpg" width="600" alt="Biblio-formatter Screen" />
+<img src="https://raw.githubusercontent.com/artyom-borodin/optimal-llm/main/screenshots/pareto-frontier.png" width="600" alt="Optimal LLM Screen" />
 
-AI bibliography formatter based on the standards of the Higher Attestation Commission of the Republic of Belarus.
+Web app for ranking LLMs by Artificial Analysis Intelligence Index v5.0.1 and task execution cost using OpenRouter provider pricing.
 
 ### [Photo Table Generator](https://github.com/artyom-borodin/photo-table-generator)
 * **Status:** MVP
@@ -47,12 +54,17 @@ AI bibliography formatter based on the standards of the Higher Attestation Commi
 
 Automated generation of photo tables for investigative action protocols. Developed for the Investigative Committee of the Republic of Belarus.
 
-### [AMIA Journal](https://github.com/artyom-borodin/amia-journal)
+### [AMIA Journal](https://github.com/artyom-borodin/amia-journal-app)
 * **Status:** In Development
 
 <img src="project5.jpg" width="600" alt="AMIA Journal Screen" />
 
-Frontend for an attendance and grade tracking service for the Academy of the Ministry of Internal Affairs of the Republic of Belarus. 
+Frontend for an attendance and grade tracking service for the Academy of the Ministry of Internal Affairs of the Republic of Belarus.
+
+### [claude-cowork-local](https://github.com/artyom-borodin/claude-cowork-local)
+* **Status:** MVP
+
+Self-hosted API translation proxy for running Claude Code against OpenCode models.
 
 ---
 
